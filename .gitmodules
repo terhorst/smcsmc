@@ -1,3 +1,3 @@
 [submodule "src/scrm"]
 	path = src/scrm
-	url = git@github.com:luntergroup/smcsmcScrm.git
+	url = https://github.com/luntergroup/smcsmcScrm
